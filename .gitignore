@@ -1,3 +1,8 @@
+## Vim optional files
+*~
+*.swp
+*.swo
+
 *.gem
 *.rbc
 /.config
